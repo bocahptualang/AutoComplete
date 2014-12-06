@@ -1,0 +1,38 @@
+.tt-dropdown-menu {
+    max-height: 250px;
+    overflow-y: auto;
+    width: 100%;
+    min-width: 160px;
+    margin: 0px 0 0;
+    list-style: none;
+    font-size: 15px;
+    text-align: left;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0px;
+    -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+.twitter-typeahead {
+    width: 100%;
+    vertical-align: middle;
+}
+.tt-query {
+	background-color: #ff0000;
+} 
+.tt-hint {
+	background-color: #00ff00;
+} 
+.tt-suggestion {
+    padding: 4px 10px;
+    margin: 4px 0px;
+}
+.tt-suggestion > p{
+    margin: 0px;
+}
+.tt-cursor{
+    background-color: #F5F5F5;
+}
